@@ -20,7 +20,7 @@ BOT_USERNAME = getenv("BOT_USERNAME" , "@Tinnixmusicbot")
 # --------------------------------------------------------
 BOT_NAME = getenv("BOT_NAME" , "𝗧𝗶𝗻𝗻𝗶 𝗫 𝗺𝘂𝘀𝗶𝗰")
 # ---------------------------------------------------------
-ASSUSERNAME = getenv("ASSUSERNAME" , "𝗧𝗶𝗻𝗻𝗶 𝗫 𝗺𝘂𝘀𝗶𝗰)
+ASSUSERNAME = getenv("ASSUSERNAME" , "𝗧𝗶𝗻𝗻𝗶 𝗫 𝗺𝘂𝘀𝗶𝗰")
 
 API_KEY = "abc921ff654bcf7b3faff8f775d781d8d27d32bfd02d6692eea30249ba781c8b"  # अपना API key यहाँ डालें
 # ---------------------------------------------------------
