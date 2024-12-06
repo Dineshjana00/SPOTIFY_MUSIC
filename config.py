@@ -9,10 +9,10 @@ from pyrogram import filters
 load_dotenv()
 # ------------------------------------
 # -----------------------------------------------------
-API_ID = int(getenv("API_ID", "28290390"))
-API_HASH = getenv("API_HASH", "2a8e43d2473d0ace96c70bb9b1738f8e")
+API_ID = int(getenv("API_ID", "20948514"))
+API_HASH = getenv("API_HASH", "016181c2e10f98965cf9b03cd21a0214")
 # ------------------------------------------------------
-BOT_TOKEN = getenv("BOT_TOKEN", "7866322213:AAH3_zj7bVT_X6mrLDITILOosLC31fraR_Y")
+BOT_TOKEN = getenv("BOT_TOKEN", "7950820221:AAG7WuUAvjR13_btnYy9j40olY5tzwIlXGw")
 # -------------------------------------------------------
 OWNER_USERNAME = getenv("OWNER_USERNAME","@CrazzyNetwork")
 # --------------------------------------------------------
@@ -28,7 +28,7 @@ API_KEY = "abc921ff654bcf7b3faff8f775d781d8d27d32bfd02d6692eea30249ba781c8b"  # 
 
 #---------------------------------------------------------------
 #---------------------------------------------------------------
-MONGO_DB_URI = getenv("MONGO_DB_URI", "mongodb+srv://TEAMBABY01:UTTAMRATHORE09@cluster0.vmjl9.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0")
+MONGO_DB_URI = getenv("MONGO_DB_URI", "mongodb+srv://Crazzy:<db_password>@crazzy.2w5qq.mongodb.net/?retryWrites=true&w=majority&appName=Crazzy")
 #---------------------------------------------------------------
 #---------------------------------------------------------------
 
@@ -40,7 +40,7 @@ DURATION_LIMIT_MIN = int(getenv("DURATION_LIMIT", 17000))
 LOGGER_ID = int(getenv("LOGGER_ID", "-1002037630331)
 # ----------------------------------------------------------------
 # ----------------------------------------------------------------
-OWNER_ID = int(getenv("OWNER_ID", "7959617456"))
+OWNER_ID = int(getenv("OWNER_ID", "6579066646"))
 # -----------------------------------------------------------------
 # -----------------------------------------------------------------
 # config.py
