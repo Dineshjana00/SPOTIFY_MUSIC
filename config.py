@@ -18,9 +18,9 @@ OWNER_USERNAME = getenv("OWNER_USERNAME","@CrazzyNetwork")
 # --------------------------------------------------------
 BOT_USERNAME = getenv("BOT_USERNAME" , "@Tinnixmusicbot")
 # --------------------------------------------------------
-BOT_NAME = getenv("BOT_NAME" , "𝗧𝗶𝗻𝗻𝗶 𝗫 𝗺𝘂𝘀𝗶𝗰")
+BOT_NAME = getenv("BOT_NAME" , "╼⃝𖠁 𝐁ʌʙʏ ꭙ 𝐌ᴜsɪᴄ 𖠁⃝╾")
 # ---------------------------------------------------------
-ASSUSERNAME = getenv("ASSUSERNAME" , "𝗧𝗶𝗻𝗻𝗶 𝗫 𝗺𝘂𝘀𝗶𝗰")
+ASSUSERNAME = getenv("ASSUSERNAME" , "╼⃝𖠁 𝐁ʌʙʏ ꭙ 𝐌ᴜsɪᴄ 𖠁⃝╾")
 
 API_KEY = "abc921ff654bcf7b3faff8f775d781d8d27d32bfd02d6692eea30249ba781c8b"  # अपना API key यहाँ डालें
 # ---------------------------------------------------------
