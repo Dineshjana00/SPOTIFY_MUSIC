@@ -28,7 +28,7 @@ API_KEY = "abc921ff654bcf7b3faff8f775d781d27d32bfd02d6692eea30249ba781c8b"  # рд
 
 #---------------------------------------------------------------
 #---------------------------------------------------------------
-MONGO_DB_URI = getenv("MONGO_DB_URI", "mongodb+srv://TEAMBABY01:UTTAMRATHORE09@cluster0.vmjl9.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0")
+MONGO_DB_URI = getenv("MONGO_DB_URI", "mongodb+srv://Crazzy:<db_password>@crazzy.2w5qq.mongodb.net/?retryWrites=true&w=majority&appName=Crazzy")
 #---------------------------------------------------------------
 #---------------------------------------------------------------
 
