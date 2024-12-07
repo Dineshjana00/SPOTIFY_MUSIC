@@ -10,11 +10,11 @@ load_dotenv()
 # ------------------------------------
 # -----------------------------------------------------
 API_ID = int(getenv("API_ID", "20948514"))
-API_HASH = getenv("API_HASH", "016181c2e10f98965cf9b03cd21a0214")
+API_HASH = getenv("API_HASH", "7453423431jkC_P2nsS5UNb9BOErO9-2bovVIfWiM")
 # ------------------------------------------------------
-BOT_TOKEN = getenv("BOT_TOKEN", "7950820221:AAG7WuUAvjR13_btnYy9j40olY5tzwIlXGw")
+BOT_TOKEN = getenv("BOT_TOKEN", "7453423431jkC_P2nsS5UNb9BOErO9-2bovVIfWiM")
 # -------------------------------------------------------
-OWNER_USERNAME = getenv("OWNER_USERNAME","@CrazzyNetwork")
+OWNER_USERNAME = getenv("OWNER_USERNAME","@UTTAM470")
 # --------------------------------------------------------
 BOT_USERNAME = getenv("BOT_USERNAME" , "BABY_MUSIC09_BOT")
 # --------------------------------------------------------
@@ -40,7 +40,7 @@ DURATION_LIMIT_MIN = int(getenv("DURATION_LIMIT", 17000))
 LOGGER_ID = int(getenv("LOGGER_ID", "-1002037630331"))
 # ----------------------------------------------------------------
 # ----------------------------------------------------------------
-OWNER_ID = int(getenv("OWNER_ID", "6579066646"))
+OWNER_ID = int(getenv("OWNER_ID", "7131351568"))
 # -----------------------------------------------------------------
 # -----------------------------------------------------------------
 # config.py
