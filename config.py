@@ -73,7 +73,7 @@ GIT_TOKEN = getenv(
 SUPPORT_CHANNEL = getenv("SUPPORT_CHANNEL", "https://t.me/Crazzyupdate")
 SUPPORT_CHAT = getenv("SUPPORT_CHAT", "https://t.me/crazzysuport")
 SOURCE = getenv("SOURCE", "https://github.com/BABY-MUSIC/BABYXMUSIC")
-CHAT = getenv("CHAT", "https://t.me/chattinghuboo")
+CHAT = getenv("CHAT", "https://t.me/crazzysuport")
 # ------------------------------------------------------------------------------
 # -------------------------------------------------------------------------------
 
@@ -140,10 +140,10 @@ confirmer = {}
 # ------------------------------------------------------------------------
 # ------------------------------------------------------------------------
 START_IMG_URL = getenv(
-    "START_IMG_URL", "https://files.catbox.moe/xhpqtp.jpg"
+    "START_IMG_URL", "https://envs.sh/RsV.jpg"
 )
 PING_IMG_URL = getenv(
-    "PING_IMG_URL", "https://telegra.ph/file/fd827f9a4fe8eaa3e8bf4.jpg"
+    "PING_IMG_URL", "https://envs.sh/RsV.jpg"
 )
 PLAYLIST_IMG_URL = "https://telegra.ph/file/d723f4c80da157fca1678.jpg"
 STATS_IMG_URL = "https://telegra.ph/file/d30d11c4365c025c25e3e.jpg"
